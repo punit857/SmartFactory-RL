@@ -1,0 +1,24 @@
+{
+  "random_mean": 5275.703,
+  "random_std": 796.8851490591352,
+  "greedy": 2073.0,
+  "simulated_annealing": 1672.0,
+  "dqn_final_costs": [
+    1686.0,
+    1685.0,
+    1672.0,
+    1672.0,
+    1698.0
+  ],
+  "dqn_best_seen_costs": [
+    1686.0,
+    1685.0,
+    1672.0,
+    1672.0,
+    1672.0
+  ],
+  "dqn_mean": 1682.6,
+  "dqn_std": 9.789790600416334,
+  "valid_placement_rate_pct": 100.0,
+  "mean_training_runtime_s": 141.77570967674257
+}
